@@ -1,6 +1,7 @@
 #AdobeToolMap
 
 Adobe Illustrator CSのツールボックスに含まれるすべてのツールと、Inkscapeの対応（あれば）。
+
 注意：Illustratorのツールの多くはInkscapeのツールボックスにはないが、コマンドやオプションによって実行できる。
 
 ツール
